@@ -2,6 +2,6 @@
     "name": "shaikhyaser/ext-curl",
     "description": "ext-curl",
     "require": {
-        "php": ">=7.4",
+        "php": ">=1.4",
     }
 }
